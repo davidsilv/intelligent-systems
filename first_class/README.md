@@ -15,4 +15,4 @@ In this first class we learned some basic concepts about data visualization, the
 
 **openstreetmaps** were used to capture the latitude and longitude of the 224 cities in Piauí.
 
-The libraries that were used in this class: pandas, matplotlib, requests and folium.
+The packages that were used in this class: pandas, matplotlib, requests and folium.
